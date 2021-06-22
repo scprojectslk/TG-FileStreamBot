@@ -1,5 +1,5 @@
 # This file is a part of TG-FileStreamBot
-# Coding : Jyothis Jayanth [@EverythingSuckz]
+# Coding : Jyothis Jayanth [@SCProjectsLK]
 
 from WebStreamer.bot import StreamBot
 from WebStreamer.vars import Var
@@ -14,7 +14,7 @@ async def start(b, m):
                           [
                               InlineKeyboardButton(
                                   f'{emoji.STAR} Source {emoji.STAR}',
-                                  url='https://github.com/EverythingSuckz/TG-FileStreamBot'
+                                  url='https://t.me/SCProjectsLK'
                               )
                           ]
                       ]
