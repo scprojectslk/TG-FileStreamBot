@@ -1,5 +1,5 @@
 # This file is a part of TG-FileStreamBot
-# Coding : Jyothis Jayanth [@EverythingSuckz]
+# Coding : SC Projects LK [@SCProjectsLK]
 
 from WebStreamer.bot import StreamBot
 from WebStreamer.vars import Var
